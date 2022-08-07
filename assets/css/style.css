@@ -321,11 +321,12 @@ html {
 
 .contact-form .submit-btn {
     margin: 16px 0;
-    padding: 8px 16px;
+    padding: 11px 16px;
     background-color: #000;
     color: #fff;
     border: #000;
     float: right;
+    appearance: none;
     -webkit-appearance: none;
 }
 
