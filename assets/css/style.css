@@ -121,6 +121,7 @@ html {
     bottom: 48px;
     text-align: center;
     width: 100%;
+    text-shadow: 0 0 1px #000;
 }
 
 .slider-content .heading {
